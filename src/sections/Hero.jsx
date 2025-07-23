@@ -16,9 +16,9 @@ const Hero = () => {
       <div className="w-full h-full flex-center">
         <div className="container relative w-full h-full">
           <div className="md:mt-40 mt-20">
-            <p className="font md:text-2xl text-base">👋 Hey, I&apos;m Here</p>
+            <p className="font md:text-2xl text-base">👋 Hallo, I&apos;m Here</p>
             <h1 className="font-bold md:text-9xl text-5xl">
-              GOURANGA DAS SAMRAT
+              IRFAN FATURAHMAN AL
             </h1>
             <h1 className="font-bold md:text-9xl text-5xl">CREATIVE</h1>
           </div>
@@ -34,7 +34,7 @@ const Hero = () => {
               </div>
               <div className="flex flex-col items-end">
                 <img src="/images/shape.svg" alt="shape" />
-                <h1 className="font-bold md:text-9xl text-5xl">DEVELOPER</h1>
+                <h1 className="font-bold md:text-9xl text-5xl">SYSADMIN</h1>
               </div>
             </div>
           </div>

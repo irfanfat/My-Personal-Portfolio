@@ -33,16 +33,10 @@ const About = () => {
                 </div>
                 <div className="mt-5">
                   <h1 className="text-blue-50 md:text-5xl text-3xl">
-                    GOURANGA DAS SAMRAT
+                    IRFAN FATURAHMAN AL
                   </h1>
                   <p className="md:text-2xl mt-2">
-                    I am a Bangladesh-based Frontend Web Developer , primarily
-                    focusing on web design and development. I love learning new
-                    things and bringing ideas to life through code. I have
-                    worked on various projects, gaining experience with HTML,
-                    CSS, JavaScript, Bootstrap 5, and diving into React JS. My
-                    goal is always to build user-friendly and visually appealing
-                    websites.
+                    As an IT infrastructure professional, I play a crucial role in maintaining the smooth operation of network systems, from device configuration and traffic monitoring to technical issue resolution. This profession provides me with a pathway to continuous learning, solving technical challenges, and providing the best solutions for digital infrastructure needs.
                   </p>
                 </div>
               </div>
@@ -66,11 +60,11 @@ const About = () => {
               <div className="bg-black-300 rounded-2xl p-7 w-full h-full">
                 <div className="flex flex-col h-full justify-center gap-2">
                   <h1 className="gradient-title md:text-3xl text-2xl font-medium">
-                    Web Design & Dev
+                    System Administrator
                   </h1>
                   <p className="md:text-2xl max-w-96">
-                    Cleanly Designed, Conversion-focused, and build for easy
-                    updates.
+                    Installation and Configuration, Maintenance and Monitoring, 
+                    Security, User Support, Troubleshooting, Backup and Recovery, and Documentation.
                   </p>
                 </div>
               </div>
@@ -79,10 +73,10 @@ const About = () => {
               <div className="bg-black-300 rounded-2xl p-7 w-full h-full">
                 <div className="flex flex-col h-full justify-center gap-2">
                   <h1 className="gradient-title md:text-3xl text-2xl font-medium">
-                    UX UI Design
+                    Junior Network Engineer
                   </h1>
                   <p className="md:text-2xl max-w-96">
-                    Seamless web or mobile app design to wow your users.
+                    Network Device Installation and Configuration, Network Maintenance, Connectivity Testing, Technical Support and Documentation.
                   </p>
                 </div>
               </div>

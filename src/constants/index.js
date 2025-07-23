@@ -20,17 +20,17 @@ const navItems = [
 const bentoSocialLinks = [
   {
     name: "Facebook",
-    href: "https://www.facebook.com/gourangadassamrat/",
+    link: "https://www.facebook.com/irfanfat16/",
     icon: "/images/fb.svg",
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/gouranga.das.khulna/",
+    href: "https://www.instagram.com/irfan_faturahman_al/",
     icon: "/images/insta.svg",
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/gouranga-das-samrat/",
+    href: "https://www.linkedin.com/in/irfan-faturahman-al/",
     icon: "/images/linkedin.svg",
   },
   {
@@ -66,17 +66,17 @@ const iconsList = [
     image: "/images/github.svg",
   },
   {
-    name: "gsap",
-    image: "/images/gsap.svg",
+    name: "docker",
+    image: "/images/docker.svg",
   },
-  {
-    name: "threejs",
-    image: "/images/threejs.svg",
-  },
-  {
-    name: "figma",
-    image: "/images/figma.svg",
-  },
+//   {
+//     name: "threejs",
+//     image: "/images/threejs.svg",
+//   },
+//   {
+//     name: "figma",
+//     image: "/images/figma.svg",
+//   },
   {
     name: "aws",
     image: "/images/aws.svg",
@@ -122,25 +122,45 @@ const slides = [
 ];
 
 const footerIconsList = [
+//   {
+//     name: "Facebook",
+//     href: "https://www.facebook.com/gourangadassamrat/",
+//     icon: "/images/b-fb.svg",
+//   },
+//   {
+//     name: "Instagram",
+//     href: "https://www.instagram.com/gouranga.das.khulna/",
+//     icon: "/images/b-insta.svg",
+//   },
+//   {
+//     name: "LinkedIn",
+//     href: "https://www.linkedin.com/in/gouranga-das-samrat/",
+//     icon: "/images/b-linked.svg",
+//   },
+//   {
+//     name: "WhatsApp",
+//     href: "https://www.facebook.com/",
+//     icon: "/images/b-whatsapp.svg",
+//   },
   {
     name: "Facebook",
-    href: "https://www.facebook.com/gourangadassamrat/",
-    icon: "/images/b-fb.svg",
+    href: "https://www.facebook.com/irfanfat16/",
+    icon: "/images/fb.svg",
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/gouranga.das.khulna/",
-    icon: "/images/b-insta.svg",
+    href: "https://www.instagram.com/irfan_faturahman_al/",
+    icon: "/images/insta.svg",
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/gouranga-das-samrat/",
-    icon: "/images/b-linked.svg",
+    href: "https://www.linkedin.com/in/irfan-faturahman-al/",
+    icon: "/images/linkedin.svg",
   },
   {
     name: "WhatsApp",
     href: "https://www.facebook.com/",
-    icon: "/images/b-whatsapp.svg",
+    icon: "/images/whatsapp.svg",
   },
 ];
 
