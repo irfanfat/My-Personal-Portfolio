@@ -10,15 +10,15 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Portfolio-%23FF0000?style=for-the-badge)](https://gouranga-das.netlify.app)
 
 [![Website Status](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fgouranga-das.netlify.app)](https://gouranga-das.netlify.app)
-[![GitHub stars](https://img.shields.io/github/stars/GourangaDasSamrat/My-Personal-Portfolio?style=for-the-badge)](https://github.com/GourangaDasSamrat/My-Personal-Portfolio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/GourangaDasSamrat/My-Personal-Portfolio?style=for-the-badge)](https://github.com/GourangaDasSamrat/My-Personal-Portfolio/network)
-[![GitHub issues](https://img.shields.io/github/issues/GourangaDasSamrat/My-Personal-Portfolio?style=for-the-badge)](https://github.com/GourangaDasSamrat/My-Personal-Portfolio/issues)
+[![GitHub stars](https://img.shields.io/github/stars/irfanfat/My-Personal-Portfolio?style=for-the-badge)](https://github.com/irfanfat/My-Personal-Portfolio/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/irfanfat/My-Personal-Portfolio?style=for-the-badge)](https://github.com/irfanfat/My-Personal-Portfolio/network)
+[![GitHub issues](https://img.shields.io/github/issues/irfanfat/My-Personal-Portfolio?style=for-the-badge)](https://github.com/irfanfat/My-Personal-Portfolio/issues)
 
 <p align="center">
 Welcome to my innovative portfolio—where creativity meets technology. Built with React, Three.js, and Vite, this showcase features stunning 3D models, fluid animations, and a fully responsive design that creates an immersive viewing experience.
 </p>
 
-[View Live Demo](https://gouranga-das.netlify.app) • [Watch Demo Video](https://youtu.be/d9xWeuUohDo) • [Report Bug](https://github.com/GourangaDasSamrat/My-Personal-Portfolio/issues) • [Request Feature](https://github.com/GourangaDasSamrat/My-Personal-Portfolio/issues)
+[View Live Demo](https://react.fhn.my.id) • [Watch Demo Video](https://youtu.be/d9xWeuUohDo) • [Report Bug](https://github.com/irfanfat/My-Personal-Portfolio/issues) • [Request Feature](https://github.com/irfanfat/My-Personal-Portfolio/issues)
 
 </div>
 
@@ -84,7 +84,7 @@ Ready to get this project up and running on your local machine? Follow these sim
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/GourangaDasSamrat/My-Personal-Portfolio.git
+   git clone https://github.com/irfanfat/My-Personal-Portfolio.git
    ```
 
 2. **Navigate into the project directory:**
@@ -117,7 +117,7 @@ Ready to get this project up and running on your local machine? Follow these sim
    ```
 
 6. **Open your browser:**
-   Visit `http://localhost:5173` to see your portfolio! ✨
+   Visit `http://localhost:5172` to see your portfolio! ✨
 
 ### 🔧 Available Scripts
 
